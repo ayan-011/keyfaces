@@ -13,14 +13,14 @@ type Profile = {
 };
 
 const PROFILES: Profile[] = [
-  { id: "1", name: "pradyuman", avatar: "/img/pradyuman.png", code: "hkb", audioSrc: "/sounds/cid.mp3" },
-  { id: "2", name: "jaadu", avatar: "/img/jaadu.png", code: "zxcbnm", audioSrc: "/sounds/jaadu2.mp3" },
-  { id: "3", name: "amma", avatar: "/img/amma.png", code: "amkbd", audioSrc: "/sounds/amma.mp3" },
-  { id: "4", name: "abhijeet", avatar: "/img/abhijeet.png", code: "ersp", audioSrc: "/sounds/abhijeet.mp3" },
-  { id: "5", name: "khansir", avatar: "/img/khansir.png", code: "ard", audioSrc: "/sounds/khansir.mp3" },
-  { id: "6", name: "chalaja", avatar: "/img/chalaja.png", code: "cbk", audioSrc: "/sounds/chalaja.mp3" },
-  { id: "7", name: "pehchan", avatar: "/img/pehchan.png", code: "mfb", audioSrc: "/sounds/pehchan.mp3" },
-  { id: "8", name: "modi", avatar: "/img/modi.png", code: "bkl", audioSrc: "/sounds/modi.mp3" },
+  { id: "1", name: "Acp pradyuman", avatar: "/img/pradyuman.png", code: "hkb", audioSrc: "/sounds/cid.mp3" },
+  { id: "2", name: "Jaadu", avatar: "/img/jaadu.png", code: "zxcbnm", audioSrc: "/sounds/jaadu2.mp3" },
+  { id: "3", name: "Amma", avatar: "/img/amma.png", code: "amkbd", audioSrc: "/sounds/amma.mp3" },
+  { id: "4", name: "Abhijeet", avatar: "/img/abhijeet.png", code: "ersp", audioSrc: "/sounds/abhijeet.mp3" },
+  { id: "5", name: "Khan sir", avatar: "/img/khansir.png", code: "ard", audioSrc: "/sounds/khansir.mp3" },
+  { id: "6", name: "Chalaja bsdk", avatar: "/img/chalaja.png", code: "cbk", audioSrc: "/sounds/chalaja.mp3" },
+  { id: "7", name: "Jaldi the late", avatar: "/img/pehchan.png", code: "mfb", audioSrc: "/sounds/pehchan.mp3" },
+  { id: "8", name: "Modi", avatar: "/img/modi.png", code: "bkl", audioSrc: "/sounds/modi.mp3" },
 ];
 
 const FADE_S = 0.012;
